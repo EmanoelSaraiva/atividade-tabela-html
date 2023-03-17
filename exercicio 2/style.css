@@ -1,0 +1,20 @@
+main {
+    height: 100vh;
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-around;
+}
+
+table {
+    border: 1px;
+    border-collapse: collapse;
+    width: 40%;
+    height: 75%;
+}
+
+td {
+    text-align: center;
+    border: 1px solid black;
+}

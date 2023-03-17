@@ -1,0 +1,16 @@
+main {
+    position: relative;
+    align-items: center;
+    margin-left: 30%;
+    padding: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+    border: 1;
+}
+
+td , tr {
+    border: 1px solid black;
+}
