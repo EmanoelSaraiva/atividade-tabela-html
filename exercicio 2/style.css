@@ -18,3 +18,11 @@ td {
     text-align: center;
     border: 1px solid black;
 }
+
+td:hover {
+    background-color: aqua;
+}
+
+th:hover {
+    background-color: aquamarine;
+}

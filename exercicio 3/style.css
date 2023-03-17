@@ -4,3 +4,10 @@ main {
     align-items: center;
 }
 
+td:hover {
+    background-color: aqua;
+}
+
+th:hover {
+    background-color: aquamarine;
+}
